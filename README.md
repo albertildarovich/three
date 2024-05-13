@@ -1,2 +1,3 @@
-# three
-3d portfolio
+# React + Vite + Three.js 
+
+Playing with @react-three/fiber
